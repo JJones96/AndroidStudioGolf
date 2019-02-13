@@ -1,3 +1,9 @@
 <resources>
+    <!--Main Menu resources -->
     <string name="app_name">AndroidStudioGolf</string>
+    <string name="AppName">AndroidStudioGolf</string>
+    <string name="StartGameButton">Start Game</string>
+    <string name="LeaderBoardButton">LeaderBoard</string>
+    <string name="Logout">Logout</string>
+
 </resources>
